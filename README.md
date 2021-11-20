@@ -98,10 +98,10 @@ workflows:
 
 ```
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Avnish327030/wafer_circleci.git
+git remote add origin git@github.com:anshulsarnayak/wafer01.git
 git push -u origin main
 ```
 
