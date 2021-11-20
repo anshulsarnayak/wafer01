@@ -105,6 +105,12 @@ git remote add origin git@github.com:anshulsarnayak/wafer01.git
 git push -u origin main
 ```
 
+# to update modification
+
+git add .
+git commit -m 'changes'
+git push
+
 ## create a account at circle ci
 
 <a href="https://circleci.com/login/">Circle CI</a>
